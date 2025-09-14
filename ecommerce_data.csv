@@ -1,0 +1,21 @@
+CustomerID,Gender,Age,City,Product_Category,Purchase_Amount,Browser,Device
+C001,Male,24,Delhi,Electronics,15499,Chrome,Mobile
+C002,Female,30,Mumbai,Clothing,2499,Firefox,Laptop
+C003,Male,45,Bangalore,Home & Kitchen,4799,Edge,Tablet
+C004,Female,36,Chennai,Beauty,1299,Safari,Mobile
+C005,Male,28,Delhi,Sports,5999,Chrome,Laptop
+C006,Female,22,Kolkata,Books,499,Chrome,Mobile
+C007,Male,33,Pune,Electronics,9999,Edge,Laptop
+C008,Female,27,Hyderabad,Fashion,1999,Firefox,Mobile
+C009,Male,40,Bangalore,Clothing,3499,Chrome,Tablet
+C010,Female,35,Mumbai,Home & Kitchen,2899,Safari,Laptop
+C011,Male,26,Chennai,Beauty,899,Chrome,Mobile
+C012,Female,29,Delhi,Sports,7999,Edge,Laptop
+C013,Male,50,Kolkata,Books,699,Firefox,Tablet
+C014,Female,32,Pune,Fashion,1799,Chrome,Mobile
+C015,Male,38,Hyderabad,Electronics,20499,Safari,Laptop
+C016,Female,23,Bangalore,Clothing,2699,Edge,Mobile
+C017,Male,31,Mumbai,Sports,6499,Firefox,Laptop
+C018,Female,41,Delhi,Home & Kitchen,3199,Chrome,Tablet
+C019,Male,27,Chennai,Books,599,Safari,Mobile
+C020,Female,34,Kolkata,Fashion,1599,Chrome,Laptop
